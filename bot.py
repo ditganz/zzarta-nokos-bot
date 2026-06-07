@@ -10,7 +10,7 @@ from telegram.ext import (
     ContextTypes
 )
 
-TOKEN = "TOKEN_BOT_BARU_ANDA"
+TOKEN = "8816888591:AAGzeF5r7AU4Asg2h07tfR1h44lzhZnQTDQ"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
